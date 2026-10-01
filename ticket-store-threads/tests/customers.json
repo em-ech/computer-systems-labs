@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Borja",
+    "ticketCount": 2,
+    "timeInStore": 0.4,
+    "joinDelay": 0.0,
+    "VIP": false
+  },
+  {
+    "name": "Alessandro",
+    "ticketCount": 4,
+    "timeInStore": 0.2,
+    "joinDelay": 4.3,
+    "VIP": true
+  },
+  {
+    "name": "Carolina",
+    "ticketCount": 2,
+    "timeInStore": 2,
+    "joinDelay": 1.5,
+    "VIP": true
+  },
+  {
+    "name": "Diego",
+    "ticketCount": 2,
+    "timeInStore": 3.0,
+    "joinDelay": 0.2,
+    "VIP": false
+  }
+]
